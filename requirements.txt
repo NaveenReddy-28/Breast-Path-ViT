@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+timm
+opencv-python
+Pillow
+matplotlib
+pandas
+scikit-learn
+streamlit
+captum
+openslide-python

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.env
+.venv
+venv/
+env/
+.conda/
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Data and large artifacts
+data/
+*.zip
+*.tar
+*.tar.gz
+
+# Model checkpoints (OPTIONAL)
+# Uncomment this if your .pth files are >100MB
+# saved_models/
+
+# OS
+.DS_Store
+Thumbs.db
